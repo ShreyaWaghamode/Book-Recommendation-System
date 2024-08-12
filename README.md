@@ -18,3 +18,5 @@ The Book Recommender System is a web application that suggests books based on us
 - Flask
 - Required Python libraries: `numpy`, `pandas`, `scikit-learn`, `pickle`
 
+### Dataset
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
